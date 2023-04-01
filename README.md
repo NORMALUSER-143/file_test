@@ -11,9 +11,9 @@ $ pip install mechanize
 $ pip install bs4
 $ pip install rich
 $ pkg install git
-$ rm -rf Luxury
+$ rm -rf file_test
 $ git clone https://github.com/NORMALUSER-143/file_test
-$ cd file_tes
+$ cd file_test
 $ python test.py
 
 Note: (This Tools Are free, So You No Need Permission To Use FILE CRACK TOOLS FOR CRACKING NEW UID FILE)
