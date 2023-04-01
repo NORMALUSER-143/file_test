@@ -12,6 +12,7 @@ $ pip install bs4
 $ pip install rich
 $ pkg install git
 $ rm -rf file_test
+$ git pull
 $ git clone https://github.com/NORMALUSER-143/file_test
 $ cd file_test
 $ python test.py
